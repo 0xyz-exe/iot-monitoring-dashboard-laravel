@@ -28,3 +28,12 @@ npm install
 npm run build
 php artisan test
 ```
+
+
+## Screenshots
+
+### Dashboard Overview
+![Dashboard](docs/screenshots/01_dashboard.png)
+
+### Login Overview
+![Login](docs/screenshots/02_login.png)
